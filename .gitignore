@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+*.env/
+.venv
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Compiled Python files
+*.pyc
+
+# Python cache
+__pycache__/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Local development settings
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# SQLAlchemy files
+*.sqlite
+
+# Pycache
+__pycache__/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
